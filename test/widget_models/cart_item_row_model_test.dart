@@ -1,0 +1,11 @@
+import 'package:flutter_test/flutter_test.dart';
+import 'package:flutter_task_malikahmad/app/app.locator.dart';
+
+import '../helpers/test_helpers.dart';
+
+void main() {
+  group('CartItemRowModel Tests -', () {
+    setUp(() => registerServices());
+    tearDown(() => locator.reset());
+  });
+}

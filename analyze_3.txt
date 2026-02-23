@@ -1,0 +1,17 @@
+Analyzing flutter_task_malikahmad...                            
+
+   info • Use 'const' with the constructor to improve performance • lib/ui/views/bundles/bundles_view.dart:159:16 • prefer_const_constructors
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/ui/views/bundles/bundles_view.dart:261:45 • deprecated_member_use
+   info • Use 'const' with the constructor to improve performance • lib/ui/views/bundles/bundles_view.dart:264:24 • prefer_const_constructors
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/ui/views/bundles/bundles_view.dart:300:33 • deprecated_member_use
+warning • Unused import: 'package:flutter_task_malikahmad/ui/common/app_strings.dart' • lib/ui/views/home/home_viewmodel.dart:2:8 • unused_import
+warning • The value of the field '_dialogService' isn't used • lib/ui/views/home/home_viewmodel.dart:7:9 • unused_field
+warning • The value of the field '_bottomSheetService' isn't used • lib/ui/views/home/home_viewmodel.dart:8:9 • unused_field
+   info • Use 'const' with the constructor to improve performance • lib/ui/widgets/common/bundle_card/bundle_card.dart:44:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/ui/widgets/common/regional_plan_card/regional_plan_card.dart:32:21 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/ui/widgets/common/regional_plan_card/regional_plan_card.dart:41:21 • prefer_const_constructors
+   info • 'window' is deprecated and shouldn't be used. Use WidgetTester.platformDispatcher or WidgetTester.view instead. Deprecated to prepare for the upcoming multi-window support. This feature was deprecated after v3.9.0-0.1.pre • test/golden/home_view_golden_test.dart:16:20 • deprecated_member_use
+   info • 'devicePixelRatioTestValue' is deprecated and shouldn't be used. Use WidgetTester.view.devicePixelRatio instead. Deprecated to prepare for the upcoming multi-window support. This feature was deprecated after v3.9.0-0.1.pre • test/golden/home_view_golden_test.dart:16:27 • deprecated_member_use
+warning • Unused import: 'package:mockito/mockito.dart' • test/viewmodels/home_viewmodel_test.dart:2:8 • unused_import
+warning • Unused import: 'package:flutter_task_malikahmad/ui/common/app_strings.dart' • test/viewmodels/home_viewmodel_test.dart:5:8 • unused_import
+

@@ -1,0 +1,229 @@
+Analyzing flutter_task_malikahmad...                            
+
+  error • Invalid constant value • lib/ui/bottom_sheets/notice/notice_sheet.dart:41:57 • invalid_constant
+  error • Undefined name 'kcMediumGrey' • lib/ui/bottom_sheets/notice/notice_sheet.dart:41:57 • undefined_identifier
+  error • Invalid constant value • lib/ui/dialogs/info_alert/info_alert_dialog.dart:55:34 • invalid_constant
+  error • Undefined name 'kcMediumGrey' • lib/ui/dialogs/info_alert/info_alert_dialog.dart:55:34 • undefined_identifier
+  error • Target of URI doesn't exist: '../../app_colors.dart' • lib/ui/views/bundles/bundles_view.dart:4:8 • uri_does_not_exist
+  error • Target of URI doesn't exist: '../../app_dimensions.dart' • lib/ui/views/bundles/bundles_view.dart:5:8 • uri_does_not_exist
+  error • Target of URI doesn't exist: '../../app_text_styles.dart' • lib/ui/views/bundles/bundles_view.dart:6:8 • uri_does_not_exist
+  error • Target of URI doesn't exist: '../../widgets/bundle_card/bundle_card.dart' • lib/ui/views/bundles/bundles_view.dart:7:8 • uri_does_not_exist
+  error • Target of URI doesn't exist: '../../widgets/bundle_filter_chips/bundle_filter_chips.dart' • lib/ui/views/bundles/bundles_view.dart:8:8 • uri_does_not_exist
+  error • Target of URI doesn't exist: '../../widgets/cart_item_row/cart_item_row.dart' • lib/ui/views/bundles/bundles_view.dart:9:8 • uri_does_not_exist
+  error • Target of URI doesn't exist: '../../widgets/regional_plan_card/regional_plan_card.dart' • lib/ui/views/bundles/bundles_view.dart:10:8 • uri_does_not_exist
+  error • Undefined name 'AppColors' • lib/ui/views/bundles/bundles_view.dart:20:24 • undefined_identifier
+  error • Invalid constant value • lib/ui/views/bundles/bundles_view.dart:33:23 • invalid_constant
+  error • Undefined name 'AppDimensions' • lib/ui/views/bundles/bundles_view.dart:33:23 • undefined_identifier
+  error • Invalid constant value • lib/ui/views/bundles/bundles_view.dart:34:23 • invalid_constant
+  error • Undefined name 'AppDimensions' • lib/ui/views/bundles/bundles_view.dart:34:23 • undefined_identifier
+  error • Invalid constant value • lib/ui/views/bundles/bundles_view.dart:35:23 • invalid_constant
+  error • Undefined name 'AppDimensions' • lib/ui/views/bundles/bundles_view.dart:35:23 • undefined_identifier
+  error • Invalid constant value • lib/ui/views/bundles/bundles_view.dart:36:23 • invalid_constant
+  error • Undefined name 'AppDimensions' • lib/ui/views/bundles/bundles_view.dart:36:23 • undefined_identifier
+  error • The method 'BundleFilterChips' isn't defined for the type 'BundlesView' • lib/ui/views/bundles/bundles_view.dart:38:28 • undefined_method
+  error • Invalid constant value • lib/ui/views/bundles/bundles_view.dart:45:23 • invalid_constant
+  error • Undefined name 'AppDimensions' • lib/ui/views/bundles/bundles_view.dart:45:23 • undefined_identifier
+  error • Invalid constant value • lib/ui/views/bundles/bundles_view.dart:46:23 • invalid_constant
+  error • Undefined name 'AppDimensions' • lib/ui/views/bundles/bundles_view.dart:46:23 • undefined_identifier
+  error • Invalid constant value • lib/ui/views/bundles/bundles_view.dart:47:23 • invalid_constant
+  error • Undefined name 'AppDimensions' • lib/ui/views/bundles/bundles_view.dart:47:23 • undefined_identifier
+  error • Invalid constant value • lib/ui/views/bundles/bundles_view.dart:48:23 • invalid_constant
+  error • Undefined name 'AppDimensions' • lib/ui/views/bundles/bundles_view.dart:48:23 • undefined_identifier
+  error • Undefined name 'AppTextStyles' • lib/ui/views/bundles/bundles_view.dart:52:30 • undefined_identifier
+  error • Invalid constant value • lib/ui/views/bundles/bundles_view.dart:56:42 • invalid_constant
+  error • Undefined name 'AppDimensions' • lib/ui/views/bundles/bundles_view.dart:56:42 • undefined_identifier
+  error • Invalid constant value • lib/ui/views/bundles/bundles_view.dart:91:25 • invalid_constant
+  error • Undefined name 'AppDimensions' • lib/ui/views/bundles/bundles_view.dart:91:25 • undefined_identifier
+  error • Invalid constant value • lib/ui/views/bundles/bundles_view.dart:92:23 • invalid_constant
+  error • Undefined name 'AppDimensions' • lib/ui/views/bundles/bundles_view.dart:92:23 • undefined_identifier
+  error • Invalid constant value • lib/ui/views/bundles/bundles_view.dart:103:48 • invalid_constant
+  error • Undefined name 'AppTextStyles' • lib/ui/views/bundles/bundles_view.dart:103:48 • undefined_identifier
+  error • Invalid constant value • lib/ui/views/bundles/bundles_view.dart:120:37 • invalid_constant
+  error • Undefined name 'AppDimensions' • lib/ui/views/bundles/bundles_view.dart:120:37 • undefined_identifier
+  error • Undefined name 'AppColors' • lib/ui/views/bundles/bundles_view.dart:123:18 • undefined_identifier
+  error • Undefined name 'AppDimensions' • lib/ui/views/bundles/bundles_view.dart:124:47 • undefined_identifier
+  error • Undefined name 'AppColors' • lib/ui/views/bundles/bundles_view.dart:125:37 • undefined_identifier
+  error • Invalid constant value • lib/ui/views/bundles/bundles_view.dart:130:41 • invalid_constant
+  error • Undefined name 'AppColors' • lib/ui/views/bundles/bundles_view.dart:130:41 • undefined_identifier
+  error • Invalid constant value • lib/ui/views/bundles/bundles_view.dart:132:43 • invalid_constant
+  error • Undefined name 'AppColors' • lib/ui/views/bundles/bundles_view.dart:132:43 • undefined_identifier
+  error • Invalid constant value • lib/ui/views/bundles/bundles_view.dart:147:15 • invalid_constant
+  error • Undefined name 'AppDimensions' • lib/ui/views/bundles/bundles_view.dart:147:15 • undefined_identifier
+  error • Invalid constant value • lib/ui/views/bundles/bundles_view.dart:148:17 • invalid_constant
+  error • Undefined name 'AppDimensions' • lib/ui/views/bundles/bundles_view.dart:148:17 • undefined_identifier
+  error • Invalid constant value • lib/ui/views/bundles/bundles_view.dart:152:23 • invalid_constant
+  error • Undefined name 'AppDimensions' • lib/ui/views/bundles/bundles_view.dart:152:23 • undefined_identifier
+  error • Invalid constant value • lib/ui/views/bundles/bundles_view.dart:153:21 • invalid_constant
+  error • Undefined name 'AppDimensions' • lib/ui/views/bundles/bundles_view.dart:153:21 • undefined_identifier
+  error • Undefined name 'AppColors' • lib/ui/views/bundles/bundles_view.dart:156:37 • undefined_identifier
+  error • Undefined name 'AppDimensions' • lib/ui/views/bundles/bundles_view.dart:157:47 • undefined_identifier
+  error • Invalid constant value • lib/ui/views/bundles/bundles_view.dart:165:55 • invalid_constant
+  error • Undefined name 'AppColors' • lib/ui/views/bundles/bundles_view.dart:165:55 • undefined_identifier
+  error • Invalid constant value • lib/ui/views/bundles/bundles_view.dart:167:48 • invalid_constant
+  error • Undefined name 'AppColors' • lib/ui/views/bundles/bundles_view.dart:167:48 • undefined_identifier
+  error • Invalid constant value • lib/ui/views/bundles/bundles_view.dart:183:55 • invalid_constant
+  error • Undefined name 'AppDimensions' • lib/ui/views/bundles/bundles_view.dart:183:55 • undefined_identifier
+  error • Evaluation of this constant expression throws an exception • lib/ui/views/bundles/bundles_view.dart:187:23 • const_eval_throws_exception
+  error • Invalid constant value • lib/ui/views/bundles/bundles_view.dart:189:29 • invalid_constant
+  error • Undefined name 'AppDimensions' • lib/ui/views/bundles/bundles_view.dart:189:29 • undefined_identifier
+  error • Invalid constant value • lib/ui/views/bundles/bundles_view.dart:190:28 • invalid_constant
+  error • Undefined name 'AppDimensions' • lib/ui/views/bundles/bundles_view.dart:190:28 • undefined_identifier
+  error • Invalid constant value • lib/ui/views/bundles/bundles_view.dart:191:29 • invalid_constant
+  error • Undefined name 'AppDimensions' • lib/ui/views/bundles/bundles_view.dart:191:29 • undefined_identifier
+  error • The method 'BundleCard' isn't defined for the type '_BundlesGrid' • lib/ui/views/bundles/bundles_view.dart:196:18 • undefined_method
+  error • Invalid constant value • lib/ui/views/bundles/bundles_view.dart:215:55 • invalid_constant
+  error • Undefined name 'AppDimensions' • lib/ui/views/bundles/bundles_view.dart:215:55 • undefined_identifier
+  error • Invalid constant value • lib/ui/views/bundles/bundles_view.dart:221:20 • invalid_constant
+  error • Undefined name 'AppTextStyles' • lib/ui/views/bundles/bundles_view.dart:221:20 • undefined_identifier
+  error • Invalid constant value • lib/ui/views/bundles/bundles_view.dart:223:34 • invalid_constant
+  error • Undefined name 'AppDimensions' • lib/ui/views/bundles/bundles_view.dart:223:34 • undefined_identifier
+  error • Evaluation of this constant expression throws an exception • lib/ui/views/bundles/bundles_view.dart:227:27 • const_eval_throws_exception
+  error • Invalid constant value • lib/ui/views/bundles/bundles_view.dart:229:33 • invalid_constant
+  error • Undefined name 'AppDimensions' • lib/ui/views/bundles/bundles_view.dart:229:33 • undefined_identifier
+  error • Invalid constant value • lib/ui/views/bundles/bundles_view.dart:230:32 • invalid_constant
+  error • Undefined name 'AppDimensions' • lib/ui/views/bundles/bundles_view.dart:230:32 • undefined_identifier
+  error • Invalid constant value • lib/ui/views/bundles/bundles_view.dart:231:33 • invalid_constant
+  error • Undefined name 'AppDimensions' • lib/ui/views/bundles/bundles_view.dart:231:33 • undefined_identifier
+  error • The method 'RegionalPlanCard' isn't defined for the type '_RegionalSection' • lib/ui/views/bundles/bundles_view.dart:235:22 • undefined_method
+  error • Invalid constant value • lib/ui/views/bundles/bundles_view.dart:248:37 • invalid_constant
+  error • Undefined name 'AppDimensions' • lib/ui/views/bundles/bundles_view.dart:248:37 • undefined_identifier
+  error • Invalid constant value • lib/ui/views/bundles/bundles_view.dart:252:46 • invalid_constant
+  error • Undefined name 'AppTextStyles' • lib/ui/views/bundles/bundles_view.dart:252:46 • undefined_identifier
+  error • Invalid constant value • lib/ui/views/bundles/bundles_view.dart:257:26 • invalid_constant
+  error • Undefined name 'AppTextStyles' • lib/ui/views/bundles/bundles_view.dart:257:26 • undefined_identifier
+  error • Undefined name 'AppColors' • lib/ui/views/bundles/bundles_view.dart:261:26 • undefined_identifier
+  error • Invalid constant value • lib/ui/views/bundles/bundles_view.dart:267:55 • invalid_constant
+  error • Undefined name 'AppColors' • lib/ui/views/bundles/bundles_view.dart:267:55 • undefined_identifier
+  error • Invalid constant value • lib/ui/views/bundles/bundles_view.dart:273:32 • invalid_constant
+  error • Undefined name 'AppColors' • lib/ui/views/bundles/bundles_view.dart:273:32 • undefined_identifier
+  error • Undefined name 'AppColors' • lib/ui/views/bundles/bundles_view.dart:297:16 • undefined_identifier
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/ui/views/bundles/bundles_view.dart:300:33 • deprecated_member_use
+  error • The method 'CartItemRow' isn't defined for the type '_CartSection' • lib/ui/views/bundles/bundles_view.dart:310:23 • undefined_method
+  error • Invalid constant value • lib/ui/views/bundles/bundles_view.dart:317:43 • invalid_constant
+  error • Undefined name 'AppColors' • lib/ui/views/bundles/bundles_view.dart:317:43 • undefined_identifier
+  error • Invalid constant value • lib/ui/views/bundles/bundles_view.dart:319:43 • invalid_constant
+  error • Undefined name 'AppDimensions' • lib/ui/views/bundles/bundles_view.dart:319:43 • undefined_identifier
+  error • Undefined name 'AppColors' • lib/ui/views/bundles/bundles_view.dart:326:26 • undefined_identifier
+  error • Undefined name 'AppDimensions' • lib/ui/views/bundles/bundles_view.dart:328:45 • undefined_identifier
+  error • Undefined name 'AppTextStyles' • lib/ui/views/bundles/bundles_view.dart:333:28 • undefined_identifier
+  error • Undefined name 'kcDarkGreyColor' • lib/ui/views/home/home_view.dart:47:30 • undefined_identifier
+  error • Undefined name 'kcDarkGreyColor' • lib/ui/views/home/home_view.dart:55:30 • undefined_identifier
+  error • Target of URI doesn't exist: 'package:flutter_task_malikahmad/app/app.bottomsheets.dart' • lib/ui/views/home/home_viewmodel.dart:1:8 • uri_does_not_exist
+  error • Target of URI doesn't exist: 'package:flutter_task_malikahmad/app/app.dialogs.dart' • lib/ui/views/home/home_viewmodel.dart:2:8 • uri_does_not_exist
+  error • Undefined name 'DialogType' • lib/ui/views/home/home_viewmodel.dart:23:16 • undefined_identifier
+  error • Undefined name 'BottomSheetType' • lib/ui/views/home/home_viewmodel.dart:31:16 • undefined_identifier
+warning • Unused import: 'package:flutter_task_malikahmad/app/app.router.dart' • lib/ui/views/startup/startup_viewmodel.dart:3:8 • unused_import
+  error • The method 'replaceWithHomeView' isn't defined for the type 'NavigationService' • lib/ui/views/startup/startup_viewmodel.dart:16:24 • undefined_method
+  error • Target of URI doesn't exist: '../../../models/bundle_model.dart' • lib/ui/widgets/common/bundle_card/bundle_card.dart:2:8 • uri_does_not_exist
+  error • Target of URI doesn't exist: '../../app_colors.dart' • lib/ui/widgets/common/bundle_card/bundle_card.dart:3:8 • uri_does_not_exist
+  error • Target of URI doesn't exist: '../../app_dimensions.dart' • lib/ui/widgets/common/bundle_card/bundle_card.dart:4:8 • uri_does_not_exist
+  error • Target of URI doesn't exist: '../../app_text_styles.dart' • lib/ui/widgets/common/bundle_card/bundle_card.dart:5:8 • uri_does_not_exist
+  error • Undefined class 'BundleModel' • lib/ui/widgets/common/bundle_card/bundle_card.dart:8:9 • undefined_class
+  error • Invalid constant value • lib/ui/widgets/common/bundle_card/bundle_card.dart:25:39 • invalid_constant
+  error • Undefined name 'AppDimensions' • lib/ui/widgets/common/bundle_card/bundle_card.dart:25:39 • undefined_identifier
+  error • Undefined name 'AppColors' • lib/ui/widgets/common/bundle_card/bundle_card.dart:27:18 • undefined_identifier
+  error • Undefined name 'AppDimensions' • lib/ui/widgets/common/bundle_card/bundle_card.dart:28:47 • undefined_identifier
+  error • Undefined name 'AppColors' • lib/ui/widgets/common/bundle_card/bundle_card.dart:30:33 • undefined_identifier
+  error • Undefined name 'AppColors' • lib/ui/widgets/common/bundle_card/bundle_card.dart:30:60 • undefined_identifier
+  error • Undefined name 'AppDimensions' • lib/ui/widgets/common/bundle_card/bundle_card.dart:32:19 • undefined_identifier
+  error • Undefined name 'AppDimensions' • lib/ui/widgets/common/bundle_card/bundle_card.dart:33:19 • undefined_identifier
+  error • Undefined name 'AppTextStyles' • lib/ui/widgets/common/bundle_card/bundle_card.dart:39:44 • undefined_identifier
+  error • Invalid constant value • lib/ui/widgets/common/bundle_card/bundle_card.dart:41:34 • invalid_constant
+  error • Undefined name 'AppColors' • lib/ui/widgets/common/bundle_card/bundle_card.dart:41:34 • undefined_identifier
+  error • Undefined name 'AppTextStyles' • lib/ui/widgets/common/bundle_card/bundle_card.dart:43:39 • undefined_identifier
+  error • Undefined name 'AppTextStyles' • lib/ui/widgets/common/bundle_card/bundle_card.dart:44:51 • undefined_identifier
+  error • Undefined name 'AppTextStyles' • lib/ui/widgets/common/bundle_card/bundle_card.dart:46:48 • undefined_identifier
+  error • Target of URI doesn't exist: '../../app_colors.dart' • lib/ui/widgets/common/bundle_filter_chips/bundle_filter_chips.dart:2:8 • uri_does_not_exist
+  error • Target of URI doesn't exist: '../../app_dimensions.dart' • lib/ui/widgets/common/bundle_filter_chips/bundle_filter_chips.dart:3:8 • uri_does_not_exist
+  error • Target of URI doesn't exist: '../../app_text_styles.dart' • lib/ui/widgets/common/bundle_filter_chips/bundle_filter_chips.dart:4:8 • uri_does_not_exist
+  error • Target of URI doesn't exist: '../../views/bundles/bundles_viewmodel.dart' • lib/ui/widgets/common/bundle_filter_chips/bundle_filter_chips.dart:5:8 • uri_does_not_exist
+  error • Undefined class 'FilterType' • lib/ui/widgets/common/bundle_filter_chips/bundle_filter_chips.dart:8:9 • undefined_class
+  error • The name 'FilterType' isn't a type, so it can't be used as a type argument • lib/ui/widgets/common/bundle_filter_chips/bundle_filter_chips.dart:9:22 • non_type_as_type_argument
+  error • Undefined name 'FilterType' • lib/ui/widgets/common/bundle_filter_chips/bundle_filter_chips.dart:23:35 • undefined_identifier
+  error • Undefined name 'FilterType' • lib/ui/widgets/common/bundle_filter_chips/bundle_filter_chips.dart:24:34 • undefined_identifier
+  error • Invalid constant value • lib/ui/widgets/common/bundle_filter_chips/bundle_filter_chips.dart:26:31 • invalid_constant
+  error • Undefined name 'AppDimensions' • lib/ui/widgets/common/bundle_filter_chips/bundle_filter_chips.dart:26:31 • undefined_identifier
+  error • Undefined name 'FilterType' • lib/ui/widgets/common/bundle_filter_chips/bundle_filter_chips.dart:29:35 • undefined_identifier
+  error • Undefined name 'FilterType' • lib/ui/widgets/common/bundle_filter_chips/bundle_filter_chips.dart:30:34 • undefined_identifier
+  error • Invalid constant value • lib/ui/widgets/common/bundle_filter_chips/bundle_filter_chips.dart:32:31 • invalid_constant
+  error • Undefined name 'AppDimensions' • lib/ui/widgets/common/bundle_filter_chips/bundle_filter_chips.dart:32:31 • undefined_identifier
+  error • Undefined name 'FilterType' • lib/ui/widgets/common/bundle_filter_chips/bundle_filter_chips.dart:35:35 • undefined_identifier
+  error • Undefined name 'FilterType' • lib/ui/widgets/common/bundle_filter_chips/bundle_filter_chips.dart:36:34 • undefined_identifier
+  error • Invalid constant value • lib/ui/widgets/common/bundle_filter_chips/bundle_filter_chips.dart:61:23 • invalid_constant
+  error • Undefined name 'AppDimensions' • lib/ui/widgets/common/bundle_filter_chips/bundle_filter_chips.dart:61:23 • undefined_identifier
+  error • Invalid constant value • lib/ui/widgets/common/bundle_filter_chips/bundle_filter_chips.dart:62:21 • invalid_constant
+  error • Undefined name 'AppDimensions' • lib/ui/widgets/common/bundle_filter_chips/bundle_filter_chips.dart:62:21 • undefined_identifier
+  error • Undefined name 'AppColors' • lib/ui/widgets/common/bundle_filter_chips/bundle_filter_chips.dart:65:31 • undefined_identifier
+  error • Undefined name 'AppColors' • lib/ui/widgets/common/bundle_filter_chips/bundle_filter_chips.dart:65:51 • undefined_identifier
+  error • Undefined name 'AppDimensions' • lib/ui/widgets/common/bundle_filter_chips/bundle_filter_chips.dart:66:47 • undefined_identifier
+  error • Undefined name 'AppColors' • lib/ui/widgets/common/bundle_filter_chips/bundle_filter_chips.dart:68:33 • undefined_identifier
+  error • Undefined name 'AppColors' • lib/ui/widgets/common/bundle_filter_chips/bundle_filter_chips.dart:68:53 • undefined_identifier
+  error • Undefined name 'AppTextStyles' • lib/ui/widgets/common/bundle_filter_chips/bundle_filter_chips.dart:73:18 • undefined_identifier
+  error • Undefined name 'AppColors' • lib/ui/widgets/common/bundle_filter_chips/bundle_filter_chips.dart:74:48 • undefined_identifier
+  error • Target of URI doesn't exist: '../../../models/cart_item.dart' • lib/ui/widgets/common/cart_item_row/cart_item_row.dart:2:8 • uri_does_not_exist
+  error • Target of URI doesn't exist: '../../app_colors.dart' • lib/ui/widgets/common/cart_item_row/cart_item_row.dart:3:8 • uri_does_not_exist
+  error • Target of URI doesn't exist: '../../app_dimensions.dart' • lib/ui/widgets/common/cart_item_row/cart_item_row.dart:4:8 • uri_does_not_exist
+  error • Target of URI doesn't exist: '../../app_text_styles.dart' • lib/ui/widgets/common/cart_item_row/cart_item_row.dart:5:8 • uri_does_not_exist
+  error • Undefined class 'CartItem' • lib/ui/widgets/common/cart_item_row/cart_item_row.dart:9:9 • undefined_class
+  error • Invalid constant value • lib/ui/widgets/common/cart_item_row/cart_item_row.dart:26:21 • invalid_constant
+  error • Undefined name 'AppDimensions' • lib/ui/widgets/common/cart_item_row/cart_item_row.dart:26:21 • undefined_identifier
+  error • Invalid constant value • lib/ui/widgets/common/cart_item_row/cart_item_row.dart:27:19 • invalid_constant
+  error • Undefined name 'AppDimensions' • lib/ui/widgets/common/cart_item_row/cart_item_row.dart:27:19 • undefined_identifier
+  error • Undefined name 'AppTextStyles' • lib/ui/widgets/common/cart_item_row/cart_item_row.dart:35:55 • undefined_identifier
+  error • Undefined name 'AppTextStyles' • lib/ui/widgets/common/cart_item_row/cart_item_row.dart:36:44 • undefined_identifier
+  error • Invalid constant value • lib/ui/widgets/common/cart_item_row/cart_item_row.dart:45:33 • invalid_constant
+  error • Undefined name 'AppDimensions' • lib/ui/widgets/common/cart_item_row/cart_item_row.dart:45:33 • undefined_identifier
+  error • Invalid constant value • lib/ui/widgets/common/cart_item_row/cart_item_row.dart:51:22 • invalid_constant
+  error • Undefined name 'AppColors' • lib/ui/widgets/common/cart_item_row/cart_item_row.dart:51:22 • undefined_identifier
+  error • Target of URI doesn't exist: '../../app_colors.dart' • lib/ui/widgets/common/quantity_control/quantity_control.dart:2:8 • uri_does_not_exist
+  error • Target of URI doesn't exist: '../../app_dimensions.dart' • lib/ui/widgets/common/quantity_control/quantity_control.dart:3:8 • uri_does_not_exist
+  error • Invalid constant value • lib/ui/widgets/common/quantity_control/quantity_control.dart:21:21 • invalid_constant
+  error • Undefined name 'AppDimensions' • lib/ui/widgets/common/quantity_control/quantity_control.dart:21:21 • undefined_identifier
+  error • Invalid constant value • lib/ui/widgets/common/quantity_control/quantity_control.dart:22:19 • invalid_constant
+  error • Undefined name 'AppDimensions' • lib/ui/widgets/common/quantity_control/quantity_control.dart:22:19 • undefined_identifier
+  error • Undefined name 'AppColors' • lib/ui/widgets/common/quantity_control/quantity_control.dart:25:35 • undefined_identifier
+  error • Undefined name 'AppDimensions' • lib/ui/widgets/common/quantity_control/quantity_control.dart:26:45 • undefined_identifier
+  error • Invalid constant value • lib/ui/widgets/common/quantity_control/quantity_control.dart:33:62 • invalid_constant
+  error • Undefined name 'AppColors' • lib/ui/widgets/common/quantity_control/quantity_control.dart:33:62 • undefined_identifier
+  error • Invalid constant value • lib/ui/widgets/common/quantity_control/quantity_control.dart:36:61 • invalid_constant
+  error • Undefined name 'AppDimensions' • lib/ui/widgets/common/quantity_control/quantity_control.dart:36:61 • undefined_identifier
+  error • Invalid constant value • lib/ui/widgets/common/quantity_control/quantity_control.dart:42:24 • invalid_constant
+  error • Undefined name 'AppColors' • lib/ui/widgets/common/quantity_control/quantity_control.dart:42:24 • undefined_identifier
+  error • Invalid constant value • lib/ui/widgets/common/quantity_control/quantity_control.dart:48:59 • invalid_constant
+  error • Undefined name 'AppColors' • lib/ui/widgets/common/quantity_control/quantity_control.dart:48:59 • undefined_identifier
+  error • Target of URI doesn't exist: '../../../models/regional_plan.dart' • lib/ui/widgets/common/regional_plan_card/regional_plan_card.dart:2:8 • uri_does_not_exist
+  error • Target of URI doesn't exist: '../../app_colors.dart' • lib/ui/widgets/common/regional_plan_card/regional_plan_card.dart:3:8 • uri_does_not_exist
+  error • Target of URI doesn't exist: '../../app_dimensions.dart' • lib/ui/widgets/common/regional_plan_card/regional_plan_card.dart:4:8 • uri_does_not_exist
+  error • Target of URI doesn't exist: '../../app_text_styles.dart' • lib/ui/widgets/common/regional_plan_card/regional_plan_card.dart:5:8 • uri_does_not_exist
+  error • Undefined class 'RegionalPlan' • lib/ui/widgets/common/regional_plan_card/regional_plan_card.dart:8:9 • undefined_class
+  error • Invalid constant value • lib/ui/widgets/common/regional_plan_card/regional_plan_card.dart:15:37 • invalid_constant
+  error • Undefined name 'AppDimensions' • lib/ui/widgets/common/regional_plan_card/regional_plan_card.dart:15:37 • undefined_identifier
+  error • Undefined name 'AppColors' • lib/ui/widgets/common/regional_plan_card/regional_plan_card.dart:17:16 • undefined_identifier
+  error • Undefined name 'AppDimensions' • lib/ui/widgets/common/regional_plan_card/regional_plan_card.dart:18:45 • undefined_identifier
+  error • Undefined name 'AppColors' • lib/ui/widgets/common/regional_plan_card/regional_plan_card.dart:19:35 • undefined_identifier
+  error • Undefined name 'AppTextStyles' • lib/ui/widgets/common/regional_plan_card/regional_plan_card.dart:24:34 • undefined_identifier
+  error • Invalid constant value • lib/ui/widgets/common/regional_plan_card/regional_plan_card.dart:25:34 • invalid_constant
+  error • Undefined name 'AppDimensions' • lib/ui/widgets/common/regional_plan_card/regional_plan_card.dart:25:34 • undefined_identifier
+  error • Undefined name 'AppTextStyles' • lib/ui/widgets/common/regional_plan_card/regional_plan_card.dart:32:42 • undefined_identifier
+  error • Undefined name 'AppTextStyles' • lib/ui/widgets/common/regional_plan_card/regional_plan_card.dart:33:50 • undefined_identifier
+  error • Undefined name 'AppTextStyles' • lib/ui/widgets/common/regional_plan_card/regional_plan_card.dart:41:47 • undefined_identifier
+  error • Undefined name 'AppTextStyles' • lib/ui/widgets/common/regional_plan_card/regional_plan_card.dart:42:57 • undefined_identifier
+  error • Invalid constant value • lib/ui/widgets/common/regional_plan_card/regional_plan_card.dart:48:34 • invalid_constant
+  error • Undefined name 'AppDimensions' • lib/ui/widgets/common/regional_plan_card/regional_plan_card.dart:48:34 • undefined_identifier
+  error • Invalid constant value • lib/ui/widgets/common/regional_plan_card/regional_plan_card.dart:49:32 • invalid_constant
+  error • Undefined name 'AppColors' • lib/ui/widgets/common/regional_plan_card/regional_plan_card.dart:49:32 • undefined_identifier
+  error • Invalid constant value • lib/ui/widgets/common/regional_plan_card/regional_plan_card.dart:50:34 • invalid_constant
+  error • Undefined name 'AppDimensions' • lib/ui/widgets/common/regional_plan_card/regional_plan_card.dart:50:34 • undefined_identifier
+  error • Invalid constant value • lib/ui/widgets/common/regional_plan_card/regional_plan_card.dart:53:59 • invalid_constant
+  error • Undefined name 'AppColors' • lib/ui/widgets/common/regional_plan_card/regional_plan_card.dart:53:59 • undefined_identifier
+  error • Undefined name 'AppTextStyles' • lib/ui/widgets/common/regional_plan_card/regional_plan_card.dart:58:26 • undefined_identifier
+  error • Invalid constant value • lib/ui/widgets/common/regional_plan_card/regional_plan_card.dart:61:64 • invalid_constant
+  error • Undefined name 'AppColors' • lib/ui/widgets/common/regional_plan_card/regional_plan_card.dart:61:64 • undefined_identifier
+  error • Invalid constant value • lib/ui/widgets/common/regional_plan_card/regional_plan_card.dart:64:34 • invalid_constant
+  error • Undefined name 'AppDimensions' • lib/ui/widgets/common/regional_plan_card/regional_plan_card.dart:64:34 • undefined_identifier
+  error • Undefined name 'AppTextStyles' • lib/ui/widgets/common/regional_plan_card/regional_plan_card.dart:65:44 • undefined_identifier
+   info • 'window' is deprecated and shouldn't be used. Use WidgetTester.platformDispatcher or WidgetTester.view instead. Deprecated to prepare for the upcoming multi-window support. This feature was deprecated after v3.9.0-0.1.pre • test/golden/home_view_golden_test.dart:16:20 • deprecated_member_use
+   info • 'devicePixelRatioTestValue' is deprecated and shouldn't be used. Use WidgetTester.view.devicePixelRatio instead. Deprecated to prepare for the upcoming multi-window support. This feature was deprecated after v3.9.0-0.1.pre • test/golden/home_view_golden_test.dart:16:27 • deprecated_member_use
+  error • Target of URI doesn't exist: 'package:flutter_task_malikahmad/app/app.bottomsheets.dart' • test/viewmodels/home_viewmodel_test.dart:3:8 • uri_does_not_exist
+  error • Undefined name 'BottomSheetType' • test/viewmodels/home_viewmodel_test.dart:35:24 • undefined_identifier
+

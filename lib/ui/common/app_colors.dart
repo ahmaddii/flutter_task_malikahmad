@@ -1,9 +1,19 @@
 import 'package:flutter/material.dart';
 
-const Color kcPrimaryColor = Color(0xFF9600FF);
-const Color kcPrimaryColorDark = Color(0xFF300151);
-const Color kcDarkGreyColor = Color(0xFF1A1B1E);
-const Color kcMediumGrey = Color(0xFF474A54);
-const Color kcLightGrey = Color.fromARGB(255, 187, 187, 187);
-const Color kcVeryLightGrey = Color(0xFFE3E3E3);
-const Color kcBackgroundColor = kcDarkGreyColor;
+class AppColors {
+  AppColors._();
+
+  static const Color primary = Color(0xFF00BCD4);
+  static const Color primaryDark = Color(0xFF00ACC1);
+  static const Color background = Color(0xFFFFFFFF);
+  static const Color surface = Color(0xFFF8F9FA);
+  static const Color textPrimary = Color(0xFF212121);
+  static const Color textSecondary = Color(0xFF757575);
+  static const Color priceColor = Color(0xFF00ACC1);
+  static const Color borderColor = Color(0xFFE0E0E0);
+  static const Color selectedBorder = Color(0xFF00BCD4);
+  static const Color checkoutGreen = Color(0xFF26A69A);
+  static const Color removeRed = Color(0xFFEF5350);
+  static const Color divider = Color(0xFFEEEEEE);
+  static const Color whatsapp = Color(0xFF25D366);
+}
